@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NVMgpUz7Zb8=",
+  "success": true,
+  "projectFilePath": "/home/talkk/projects/dotnet/Algorithms/monotonic_array/monotonic_array.csproj",
+  "expectedPackageFiles": [
+    "/home/talkk/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.4/microsoft.aspnetcore.app.ref.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "monotonic_array/1.0.0": {
+        "runtime": {
+          "monotonic_array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "monotonic_array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

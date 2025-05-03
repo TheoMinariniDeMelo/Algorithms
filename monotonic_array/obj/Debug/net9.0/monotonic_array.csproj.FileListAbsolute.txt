@@ -1,0 +1,14 @@
+/home/talkk/projects/dotnet/Algorithms/monotonic_array/bin/Debug/net9.0/monotonic_array
+/home/talkk/projects/dotnet/Algorithms/monotonic_array/bin/Debug/net9.0/monotonic_array.deps.json
+/home/talkk/projects/dotnet/Algorithms/monotonic_array/bin/Debug/net9.0/monotonic_array.runtimeconfig.json
+/home/talkk/projects/dotnet/Algorithms/monotonic_array/bin/Debug/net9.0/monotonic_array.dll
+/home/talkk/projects/dotnet/Algorithms/monotonic_array/bin/Debug/net9.0/monotonic_array.pdb
+/home/talkk/projects/dotnet/Algorithms/monotonic_array/obj/Debug/net9.0/monotonic_array.GeneratedMSBuildEditorConfig.editorconfig
+/home/talkk/projects/dotnet/Algorithms/monotonic_array/obj/Debug/net9.0/monotonic_array.AssemblyInfoInputs.cache
+/home/talkk/projects/dotnet/Algorithms/monotonic_array/obj/Debug/net9.0/monotonic_array.AssemblyInfo.cs
+/home/talkk/projects/dotnet/Algorithms/monotonic_array/obj/Debug/net9.0/monotonic_array.csproj.CoreCompileInputs.cache
+/home/talkk/projects/dotnet/Algorithms/monotonic_array/obj/Debug/net9.0/monotonic_array.dll
+/home/talkk/projects/dotnet/Algorithms/monotonic_array/obj/Debug/net9.0/refint/monotonic_array.dll
+/home/talkk/projects/dotnet/Algorithms/monotonic_array/obj/Debug/net9.0/monotonic_array.pdb
+/home/talkk/projects/dotnet/Algorithms/monotonic_array/obj/Debug/net9.0/monotonic_array.genruntimeconfig.cache
+/home/talkk/projects/dotnet/Algorithms/monotonic_array/obj/Debug/net9.0/ref/monotonic_array.dll
