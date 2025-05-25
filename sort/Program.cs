@@ -1,38 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using sort.src;
 using sort.src.extensions;
+using BenchmarkDotNet.Running;
 
-int[] arr1 = IntegerArrayExtension.GenerateRandomArray(100); 
-Console.WriteLine("InsertionSort:");
-arr1.Print();
-
-int[] arr2 = new int[arr1.Length];
-
-arr1.CopyTo(arr2, 0);
-
-arr1.InsertionSort();
-
-arr1.Print();
-
-Console.WriteLine("Is Sorted? {0}", arr1.IsSorted() ? "True" : "False");
-
-Console.WriteLine("Is Same array? {0}", IntegerArrayExtension.IsEqualsSet(arr1, arr2));
-
-Console.WriteLine("QuickSort");
-
-arr1 = IntegerArrayExtension.GenerateRandomArray(100); 
-
-arr1.Print();
-
-arr2 = new int[arr1.Length];
-
-arr1.CopyTo(arr2, 0);
-
-arr1.QuickSort();
-
-arr1.Print();
-
-Console.WriteLine("Is Sorted? {0}", arr1.IsSorted() ? "True" : "False");
-
-Console.WriteLine("Is Same array? {0}", IntegerArrayExtension.IsEqualsSet(arr1, arr2));
-
-
+//BenchmarkRunner.Run<IntegerArraySort>();
+int[] vector = [1957747793, 1804289383, 1714636915, 1681692777, 1649760492, 1189641421, 846930886, 719885386, 596516649, 424238335];
+vector.Print();
+vector.OrderBy(x => -x).ToArray().Print();
